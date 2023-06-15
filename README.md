@@ -4,7 +4,7 @@
 
 Unleashed Firmware: https://github.com/DarkFlippers/unleashed-firmware
 
-- 📫 How to reach me - Discord: Nano#8998
+- 📫 How to reach me - Discord: @mmx7
 
 ### Support me:
 * Boosty: https://boosty.to/mmxdev
