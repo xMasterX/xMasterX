@@ -7,6 +7,7 @@ Unleashed Firmware: https://github.com/DarkFlippers/unleashed-firmware
 - 📫 How to reach me - Discord: @mmx7
 
 ### Support me:
+* **Patreon**: https://patreon.com/mmxdev
 * Boosty: https://boosty.to/mmxdev
 * cloudtips (only RU payments accepted): https://pay.cloudtips.ru/p/7b3e9d65
 * YooMoney (only RU payments accepted): https://yoomoney.ru/fundraise/XA49mgQLPA0.221209
