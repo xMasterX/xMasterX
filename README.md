@@ -1,22 +1,21 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on custom firmware for Flipper Zero
+**I like working on -> InfoSec, Reverse Engineering, Digital and Analogue Hardware, Radio, Sound, Music** <br><br>
+Right now I'm mostly programming using `C` but there is a list of stuff that I used before:<br>
+`C`, `Golang`, `C#`, `Python`, `Lua` <br>
+And a little bit of `nodejs`, `various CI/CD stuff`, `game dev things`, `linux & unix`
 
-Unleashed Firmware: https://github.com/DarkFlippers/unleashed-firmware
+### GitHub stats:<br>
+[![Years Badge](https://badges.strrl.dev/years/xMasterX?style=flat&labelColor=333333&logoColor=E7E7E7)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/yearly/xMasterX?style=flat&labelColor=333333&logoColor=E7E7E7&color=ba4ab9)](https://badges.strrl.dev)
+[![Followers Badge](https://img.shields.io/github/followers/xMasterX?style=flat&labelColor=333333&logoColor=E7E7E7&label=Followers&logo=github)](https://github.com/xMasterX?tab=followers)
 
-- 📫 How to reach me - Discord: @mmx7
+### 🔭 My mostly known project - custom firmware for the Flipper Zero:
+  - Unleashed Firmware: https://github.com/DarkFlippers/unleashed-firmware
+
+### 📫 How to reach me:
+  - Discord: @mmx7
+  - Telegram: [@SimoKemppainen](https://t.me/SimoKemppainen)
 
 ### Support me:
-* **Patreon**: https://patreon.com/mmxdev
-* Boosty: https://boosty.to/mmxdev
-* cloudtips (only RU payments accepted): https://pay.cloudtips.ru/p/7b3e9d65
-* YooMoney (only RU payments accepted): https://yoomoney.ru/fundraise/XA49mgQLPA0.221209
-* USDT(TRC20): `TSXcitMSnWXUFqiUfEXrTVpVewXy2cYhrs`
-* ETH (BSC/ERC20-Tokens): `darkflippers.eth` (or `0xFebF1bBc8229418FF2408C07AF6Afa49152fEc6a`)
-* BTC: `bc1q0np836jk9jwr4dd7p6qv66d04vamtqkxrecck9`
-* SOL (Solana/Tokens): `DSgwouAEgu8iP5yr7EHHDqMNYWZxAqXWsTEeqCAXGLj8`
-* DOGE: `D6R6gYgBn5LwTNmPyvAQR6bZ9EtGgFCpvv`
-* LTC: `ltc1q3ex4ejkl0xpx3znwrmth4lyuadr5qgv8tmq8z9`
-* BCH: `qquxfyzntuqufy2dx0hrfr4sndp0tucvky4sw8qyu3`
-* XMR (Monero): `41xUz92suUu1u5Mu4qkrcs52gtfpu9rnZRdBpCJ244KRHf6xXSvVFevdf2cnjS7RAeYr5hn9MsEfxKoFDRSctFjG5fv1Mhn`
-* TON: `UQCOqcnYkvzOZUV_9bPE_8oTbOrOF03MnF-VcJyjisTZmsxa`
+[Link to patreon / boosty and crypto](https://github.com/DarkFlippers/unleashed-firmware#please-support-development-of-the-project)
